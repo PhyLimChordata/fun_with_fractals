@@ -29,4 +29,4 @@ draw_fractal(300, 10)
 drawer.right(180)
 draw_fractal(300, 10)
 
-turtle.exitonclick()
+turtle.done()
